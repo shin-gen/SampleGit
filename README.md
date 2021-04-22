@@ -1,2 +1,12 @@
-テキスト説明分
-テキスト編集
+# newRead　　
+
+概要　　
+
+## Description　　
+詳細の説明　　
+
+## Usage　　
+用途　　
+
+## Install　　
+インストール方法　　
