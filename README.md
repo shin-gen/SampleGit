@@ -1,12 +1,12 @@
 # newRead
 
-概要　　
+概要
 
-## Description　　
-詳細の説明　　
+## Description
+詳細の説明
 
-## Usage　　
-用途　　
+## Usage
+用途
 
-## Install　　
-インストール方法　　
+## Install
+インストール方法
