@@ -1,4 +1,4 @@
-# newRead　　
+# newRead
 
 概要　　
 
